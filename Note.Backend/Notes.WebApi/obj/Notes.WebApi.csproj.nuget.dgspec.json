@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\C#\\Projects\\Note.Backend\\Notes.WebApi\\Notes.WebApi.csproj": {}
+    "D:\\Programming\\C#\\Projects\\NoteWeb\\Note.Backend\\Notes.WebApi\\Notes.WebApi.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\C#\\Projects\\Note.Backend\\Notes.WebApi\\Notes.WebApi.csproj": {
+    "D:\\Programming\\C#\\Projects\\NoteWeb\\Note.Backend\\Notes.WebApi\\Notes.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\C#\\Projects\\Note.Backend\\Notes.WebApi\\Notes.WebApi.csproj",
+        "projectUniqueName": "D:\\Programming\\C#\\Projects\\NoteWeb\\Note.Backend\\Notes.WebApi\\Notes.WebApi.csproj",
         "projectName": "Notes.WebApi",
-        "projectPath": "D:\\Programming\\C#\\Projects\\Note.Backend\\Notes.WebApi\\Notes.WebApi.csproj",
+        "projectPath": "D:\\Programming\\C#\\Projects\\NoteWeb\\Note.Backend\\Notes.WebApi\\Notes.WebApi.csproj",
         "packagesPath": "C:\\Users\\ildar\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\C#\\Projects\\Note.Backend\\Notes.WebApi\\obj\\",
+        "outputPath": "D:\\Programming\\C#\\Projects\\NoteWeb\\Note.Backend\\Notes.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

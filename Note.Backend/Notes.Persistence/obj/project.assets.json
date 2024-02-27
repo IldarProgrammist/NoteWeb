@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\C#\\Projects\\Note.Backend\\Notes.Persistence\\Notes.Persistence.csproj",
+      "projectUniqueName": "D:\\Programming\\C#\\Projects\\NoteWeb\\Note.Backend\\Notes.Persistence\\Notes.Persistence.csproj",
       "projectName": "Notes.Persistence",
-      "projectPath": "D:\\Programming\\C#\\Projects\\Note.Backend\\Notes.Persistence\\Notes.Persistence.csproj",
+      "projectPath": "D:\\Programming\\C#\\Projects\\NoteWeb\\Note.Backend\\Notes.Persistence\\Notes.Persistence.csproj",
       "packagesPath": "C:\\Users\\ildar\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\C#\\Projects\\Note.Backend\\Notes.Persistence\\obj\\",
+      "outputPath": "D:\\Programming\\C#\\Projects\\NoteWeb\\Note.Backend\\Notes.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -77,8 +77,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Programming\\C#\\Projects\\Note.Backend\\Notes.Application\\Notes.Application.csproj": {
-              "projectPath": "D:\\Programming\\C#\\Projects\\Note.Backend\\Notes.Application\\Notes.Application.csproj"
+            "D:\\Programming\\C#\\Projects\\NoteWeb\\Note.Backend\\Notes.Application\\Notes.Application.csproj": {
+              "projectPath": "D:\\Programming\\C#\\Projects\\NoteWeb\\Note.Backend\\Notes.Application\\Notes.Application.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wQ855L89OSBxxmIPjM70mvausjXwWboCdxUa/wJDpmJhYa08kzYNgO7feACg2rR7WuGxwxDpXnWFBnuh1bxZzw==",
+  "dgSpecHash": "kJXofYyFBtYimnQBR3zltym5xshGtb8YeMY5WFJRzwJz4f2yKzReTS785BJJWKpkRTAuw2eXqXmnZifPQaEGqQ==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\C#\\Projects\\Note.Backend\\Notes.Application\\Notes.Application.csproj",
+  "projectFilePath": "D:\\Programming\\C#\\Projects\\NoteWeb\\Note.Backend\\Notes.Application\\Notes.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

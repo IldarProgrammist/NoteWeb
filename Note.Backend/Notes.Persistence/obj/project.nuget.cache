@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JtXvVvGlzbyALtjGnCEppzPv7hcKOSwaCuRorljSCFkbW9fBL6FmTR4thoaLCsiLaeUMVVaKvQjy6LrMw05oNA==",
+  "dgSpecHash": "MsDahGyuSdxMWHU6JE3NDHSHligcP/YBtLuX7tMXHM+HIeoi6cN2fFlZ0QKW5rZQYQhXR3Uhg2QyBevKf55glA==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\C#\\Projects\\Note.Backend\\Notes.Persistence\\Notes.Persistence.csproj",
+  "projectFilePath": "D:\\Programming\\C#\\Projects\\NoteWeb\\Note.Backend\\Notes.Persistence\\Notes.Persistence.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

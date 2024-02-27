@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\C#\\Projects\\Note.Backend\\Notes.Application\\Notes.Application.csproj",
+      "projectUniqueName": "D:\\Programming\\C#\\Projects\\NoteWeb\\Note.Backend\\Notes.Application\\Notes.Application.csproj",
       "projectName": "Notes.Application",
-      "projectPath": "D:\\Programming\\C#\\Projects\\Note.Backend\\Notes.Application\\Notes.Application.csproj",
+      "projectPath": "D:\\Programming\\C#\\Projects\\NoteWeb\\Note.Backend\\Notes.Application\\Notes.Application.csproj",
       "packagesPath": "C:\\Users\\ildar\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\C#\\Projects\\Note.Backend\\Notes.Application\\obj\\",
+      "outputPath": "D:\\Programming\\C#\\Projects\\NoteWeb\\Note.Backend\\Notes.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,8 +59,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Programming\\C#\\Projects\\Note.Backend\\Notes.Domain\\Notes.Domain.csproj": {
-              "projectPath": "D:\\Programming\\C#\\Projects\\Note.Backend\\Notes.Domain\\Notes.Domain.csproj"
+            "D:\\Programming\\C#\\Projects\\NoteWeb\\Note.Backend\\Notes.Domain\\Notes.Domain.csproj": {
+              "projectPath": "D:\\Programming\\C#\\Projects\\NoteWeb\\Note.Backend\\Notes.Domain\\Notes.Domain.csproj"
             }
           }
         }
