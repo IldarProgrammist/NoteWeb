@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "T9n3kvacyGhT2mei/5R7zs6m9jUNl8ZrWtIxz54hZ5IKeO+TlSXBVanBHmVr9hTsS18bNmM24EzTqDl3CGznrw==",
+  "dgSpecHash": "Pde/IFhHUSUBAWyX1Xqmmy56UvlFkuht10DQ6RbJ8kaVRix5I4iNJfHqJPfSZmC5uzOQ1gs4G9x/tZ9HmkqkWg==",
   "success": true,
   "projectFilePath": "D:\\Programming\\C#\\Projects\\NoteWeb\\Note.Backend\\Notes.Persistence\\Notes.Persistence.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ildar\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\ildar\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.2\\microsoft.data.sqlite.core.8.0.2.nupkg.sha512",
     "C:\\Users\\ildar\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.2\\microsoft.entityframeworkcore.8.0.2.nupkg.sha512",
     "C:\\Users\\ildar\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.2\\microsoft.entityframeworkcore.abstractions.8.0.2.nupkg.sha512",

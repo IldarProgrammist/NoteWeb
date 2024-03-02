@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HCWqlHJ6ysAZXdnTF1yV/Kd3rAPvhNIJK4dK4YpfOFSx61AJQsCWR2+BgXPOfIsBdEdcgRRp+TYofqE5NFgZGQ==",
+  "dgSpecHash": "T2R9Qs3qh7091VRzNKwMNT3djAeKT3mpO9rRTkBrvd3Teb0XSa2gzvCBqActvsU8LBnVvlWceQI8LQS+5d3R2A==",
   "success": true,
   "projectFilePath": "D:\\Programming\\C#\\Projects\\NoteWeb\\Note.Backend\\Notes.Application\\Notes.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ildar\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\ildar\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.2\\microsoft.entityframeworkcore.8.0.2.nupkg.sha512",
     "C:\\Users\\ildar\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.2\\microsoft.entityframeworkcore.abstractions.8.0.2.nupkg.sha512",
     "C:\\Users\\ildar\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.2\\microsoft.entityframeworkcore.analyzers.8.0.2.nupkg.sha512",
